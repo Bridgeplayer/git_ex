@@ -5,6 +5,10 @@ end
 
 def is_odd?(n)
 
+  if num%3==0
+    return true
+  else return false
+
 end
 
 test()
